@@ -1,10 +1,9 @@
 {
   "expo": {
-    "name": "bolt-food-app",
-    "slug": "bolt-food-app",
+    "name": "bolt-food",
+    "slug": "bolt-food",
     "version": "1.0.0",
-
-    "scheme": "bolt-food-app",
+    "scheme": "bolt-food",
     "web": {
       "bundler": "metro",
       "output": "static",
